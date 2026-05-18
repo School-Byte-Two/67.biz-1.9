@@ -1,0 +1,5 @@
+Hvordan bruke: du opner OPEN 67.bat
+Du må instalere Phyton får å kunne kjøre hele programmet
+
+
+JEG TAR INGEN KONSEKVENSER!
